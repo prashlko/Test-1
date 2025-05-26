@@ -1,0 +1,15 @@
+#-----Add,Sub,Mul.Div -----#
+a=input('a:')
+b=input('b:')
+a=int(a)
+b=int(a)
+a=5
+b=10
+Add=(a+b)
+Sub=(a-b)
+Mul=(a*b)
+Div=(a/b)
+print("Addition is ;",Add)
+print("Subtraction is:",Sub)
+print("Multiplication is:",Mul)
+print("Division is :",Div)
